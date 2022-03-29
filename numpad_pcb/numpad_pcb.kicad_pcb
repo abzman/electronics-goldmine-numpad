@@ -4636,7 +4636,7 @@
   (gr_text "Piezo" (at 128.27 83.82) (layer "B.SilkS") (tstamp 34392292-7065-417e-b176-902ff9b9f131)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "QMK capable pcv for electronics goldmine numpad pcb" (at 146.05 101.6) (layer "B.SilkS") (tstamp 618e375d-0021-473a-91d7-cbe2a4e7b867)
+  (gr_text "QMK capable pcb for electronics goldmine numpad" (at 146.05 101.6) (layer "B.SilkS") (tstamp 618e375d-0021-473a-91d7-cbe2a4e7b867)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "abzman2k.wordpress.com" (at 151.13 85.09) (layer "B.SilkS") (tstamp 64ca9ea5-cce9-4634-a72a-b5e9893754a9)
