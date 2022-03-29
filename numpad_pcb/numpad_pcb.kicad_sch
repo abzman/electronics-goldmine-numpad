@@ -591,6 +591,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1089ce42-3d32-4d71-8a11-f137bf45a9e6)
   )
+  (polyline (pts (xy 34.925 147.32) (xy 34.925 191.77))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 10d3aed9-3207-41eb-9bd0-983b84fe7dc7)
+  )
+
   (wire (pts (xy 212.09 99.695) (xy 212.09 105.41))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 10ee12c5-948c-4cff-92b2-8dfc5932d23b)
@@ -615,6 +620,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 1d6fd1d1-1e5c-4217-9e20-c58273b6ec81)
   )
+  (polyline (pts (xy 34.925 147.32) (xy 162.56 147.32))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 21846961-2a78-4e46-8242-5b4de77ca82d)
+  )
+
   (wire (pts (xy 212.09 105.41) (xy 236.22 105.41))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 21fe4b3e-2944-4720-94f3-e64776399065)
@@ -683,6 +693,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 526ef55a-3439-4321-bcb6-3084e398eeca)
   )
+  (polyline (pts (xy 162.56 147.32) (xy 162.56 191.77))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 5404664b-083c-4ae7-9324-834241f1df76)
+  )
+
   (wire (pts (xy 212.09 44.45) (xy 212.09 48.895))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 5611df50-d73b-4c7a-8fc9-2020c1a5fd5a)
@@ -863,6 +878,11 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid c6afbe92-aa32-496c-a8ed-563b2a1b96db)
   )
+  (polyline (pts (xy 162.56 191.77) (xy 34.925 191.77))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid c6f64293-5e29-4afa-8644-d8f9ea3d34e8)
+  )
+
   (wire (pts (xy 96.52 44.45) (xy 96.52 48.895))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid c96071b6-de50-419c-a3d2-869edff9dada)
@@ -954,6 +974,12 @@
   (wire (pts (xy 140.97 63.5) (xy 143.51 63.5))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid ffcaba67-8f70-4fe5-bda4-79c97f4c7636)
+  )
+
+  (text "TODO:\nmove all jumpers to back of board\nadd jumpers for rows in addition to columns"
+    (at 74.295 172.085 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1b6100b1-6db6-46ed-838f-9445ada9c264)
   )
 
   (label "row2" (at 76.2 71.12 180)
