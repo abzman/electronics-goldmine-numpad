@@ -976,8 +976,7 @@
     (uuid ffcaba67-8f70-4fe5-bda4-79c97f4c7636)
   )
 
-  (text "TODO:\nmove all jumpers to back of board\nadd jumpers for rows in addition to columns"
-    (at 74.295 172.085 0)
+  (text "TODO:\nmove all jumpers to back of board" (at 74.295 172.085 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1b6100b1-6db6-46ed-838f-9445ada9c264)
   )
